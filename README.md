@@ -1,9 +1,6 @@
 # AI BUSINESS CASE STUDY: SUNO - GENERATIVE AI FOR TEXT TO MUSIC
-CU-VIRT-AI-PT-06-2024-U-LOLC: Module 1 Challenge: AI Business Case Study
+CU-VIRT-AI-PT-06-2024-U-LOLC: Module 1 Challenge: AI Business Case Study (Frederik Tylim)
 
-testing sync 6:01 PM
-
-push test 5:59 PM
 
 ## Overview and Origin
 * Name of company: Suno, Inc.
